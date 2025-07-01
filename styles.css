@@ -1,65 +1,34 @@
- 
-<head>
-  <title> Hollo </title>
- 
-</head>
+ img {
 
-<body>
-  
-  <h1> Sudasiri  Pajongkitkarn </h1>
-  
-  <img src = 'https://static1.srcdn.com/wordpress/wp-content/uploads/2024/11/toothless-from-the-original-animated-how-to-train-your-dragon.jpg?q=70&fit=crop&w=1140&h=&dpr=1' style="width: 45%; height: auto;">
-                                                                           
- 
-  <hr>
-  <h1> My name is Sudasiri Pajongkitkarn
-  <h2>  </h2>
-  <h3> Suankularb wittayalai Nonthaburi </h3>
-    <h1> Skills </h1>
-    <ul>
-      <li> coding </li>
-      <li> graphic design </li>
-    </ul> 
- <h2> https://www.skn.ac.th/ </h2>
-</body>
- <table border="3">
+ width: 400px;
 
-      <thead>
+ height: 400px;
 
-        <tr>
+ border-radius: 50%;
 
-          <th>Year</th>
+}
+table {
 
-          <th>Education</th>
+   border-collapse: collapse;
 
-        </tr>
+   /* border: 2px solid rgb(140 140 140); */
 
-      </thead>
+   font-family: sans-serif;
 
-      <tr>
+   font-size: 0.8rem;
 
-           <td>2015 - 2023</td>
+   letter-spacing: 1px;
 
-           <td>khemasiri mommorise School</td>
+ }
 
-      </tr>
+...
 
-       <tr>
+th,
 
-           <td>2023 - 2024</td>
+ td {
 
-           <td>Suankularb wittayalai nonthaburi</td>
+   /* border: 1px solid rgb(160 160 160); */
 
-      </tr>
+   padding: 8px 10px;
 
-      <tr>
-
-          <td>2024 - 2025</td>
-
-          <td>King Mongkut’s Institude of Technology Ladkrabang</td>
-
-     </tr>
-
-     <tr>
-
-  </table>
+ }
